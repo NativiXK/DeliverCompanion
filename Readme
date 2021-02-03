@@ -1,0 +1,4 @@
+Um projeto criado a partir do conceito de web scrapping no sistema SSW de transporte de mercadorias.
+
+inicialmente desenvolvido para localizar as mercadorias em transporte a partir do CPF do usuário.
+Espera-se implantar um acompanhante a partir da DANF-e, onde ao registrar gera o LOG de informações extraídas do HTML e gerar o acompanhamento através de um bot no TELEGRAM.
