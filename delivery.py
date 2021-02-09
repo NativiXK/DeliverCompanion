@@ -56,7 +56,6 @@ class Delivery:
         table = soup.findAll("table")[1]
         table = table.find_all("tr")[:-5]
         package["logs"] = []
-        events = []
         for tr in table:
             #Exract the event of the log
             event = tr.find("p", class_ = "titulo")
